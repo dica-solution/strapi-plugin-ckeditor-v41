@@ -1,0 +1,10 @@
+.ck-editor__editable_inline {
+  height: max-content !important;
+  min-height: 700px;
+}
+
+.ck.ck-editor__main .ck-focused {
+  height: fit-content !important;
+  min-height: 700px;
+  max-height: none !important;
+}

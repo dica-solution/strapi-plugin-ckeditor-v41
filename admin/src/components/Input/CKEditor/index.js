@@ -8,6 +8,7 @@ import {getConfiguration} from "./configuration";
 import {getGlobalStyling} from "./styling";
 import MediaLib from "../MediaLib";
 
+import './CKeditor.css';
 import ckeditor5Dll from "ckeditor5/build/ckeditor5-dll.js";
 import ckeditor5EditorClassicDll from "@ckeditor/ckeditor5-editor-classic/build/editor-classic.js";
 
