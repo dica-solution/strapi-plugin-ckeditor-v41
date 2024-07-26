@@ -40,7 +40,7 @@
     "@ckeditor/ckeditor5-horizontal-line": "^41.0.0",
     "@ckeditor/ckeditor5-html-embed": "^41.0.0",
     "@ckeditor/ckeditor5-html-support": "^41.0.0",
-    "@ckeditor/ckeditor5-image": "^41.0.0",
+    "@ckeditor/ckeditor5-image": "https://github.com/dica-solution/ckeditor5-ckeditor-image.git#aa307685558da04129ba0f9409be161e705bccbc",
     "@ckeditor/ckeditor5-font": "^41.0.0",
     "@ckeditor/ckeditor5-indent": "^41.0.0",
     "@ckeditor/ckeditor5-language": "^41.0.0",
@@ -50,7 +50,6 @@
     "@ckeditor/ckeditor5-mention": "^41.0.0",
     "@ckeditor/ckeditor5-page-break": "^41.0.0",
     "@ckeditor/ckeditor5-paragraph": "^41.0.0",
-    "@ckeditor/ckeditor5-paste-from-office": "^41.0.0",
     "@ckeditor/ckeditor5-remove-format": "^41.0.0",
     "@ckeditor/ckeditor5-source-editing": "^41.0.0",
     "@ckeditor/ckeditor5-special-characters": "^41.0.0",
@@ -66,7 +65,8 @@
     "@strapi/design-system": "^1.10.1",
     "lodash": "^4.17.21",
     "prop-types": "^15.8.1",
-    "sanitize-html": "^2.10.0"
+    "sanitize-html": "^2.10.0",
+    "@ckeditor/ckeditor5-paste-from-office": "https://github.com/dica-solution/ckeditor5-paste-from-office.git"
   },
   "peerDependencies": {
     "@strapi/strapi": "^4.13.0"
